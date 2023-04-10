@@ -1,0 +1,21 @@
+struktura plików
+
+|-build
+|
+|-include   | 
+|           | nagłówek.hpp
+|           |-kategoria |
+|           |           | nagłówek.hpp
+|           |-bibliotekaNagłówkowa
+|
+|
+|-libs      |-biblioteka1
+|           |-biblioteka2
+|
+|
+|-src       | plik.cpp
+|           | kategoria |
+|           |           | plik.cpp
+|
+| CMakeLists.txt
+| ReadMe.md
